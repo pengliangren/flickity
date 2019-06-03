@@ -1,3 +1,4 @@
+#轮播插件
 # Flickity
 
 _Touch, responsive, flickable carousels_
